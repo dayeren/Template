@@ -55,10 +55,11 @@
 :-- | :--: | :--: | :--: | :--:
 机器学习基石 |  Learning from Data |https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
 机器学习技法 | 暂无|https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
-凸优化2  | 暂无 | https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20 | | http://stanford.edu/class/ee364b/ | Stanford
+凸优化2  | 暂无 | https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20 | http://stanford.edu/class/ee364b/ | Stanford
 其他 | 其他 | 其他 | 其他 | 其他
 
 ###<h3 id="specific_high_courses">高级进阶阶段</h3>
+
   此处主要是高级的进阶阶段，以领域高级会议和期刊的文章学习为主，只需要列举该领域的高级会议名称以及链接即可。
   
 会议名称 | 链接
