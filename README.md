@@ -12,29 +12,31 @@
  - [高级进阶阶段](#specific_high_courses)
 
 ##<h2 id="preparation">前言</h2>
-   我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
+   
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="basic_courses">基础课程初级</h3>
 
-课程 | 机构 | 参考书 | Notes等其他资料
-:-- | :--: | :--: | :--:
-[单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
-[多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-[线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
-[统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
-概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
-[概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
+  此处的课程主要以本科生课程为主，各个方向不同，例如机器学习主要是一些数学课程以及一些基本的必备的程序设计能力为主。
+  
+  
+课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+:-- | :--: | :--: | :--: | :--:
+单变量微积分 |  [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) | [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) | MIT   
+多变量微积分 | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) | MIT
+线性代数 |  [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) | [线性代数](http://open.163.com/special/opencourse/daishu.html) | [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/) | MIT
+统计入门 |  暂无 | [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 暂无 |  可汗学院 
+... |  ... | ... | ... |  ... 
 
 
 ###<h3 id="specific_basic_courses">专业课程初级</h3>
-考虑到机器学习的核心是里面的数学原理和算法思想，程序语言目前主要是帮助大家较好的完成课后作业以及实现自己的一些idea，此处我们仅仅给出推荐的参考学习链接，大家掌握一些常用的模块即可，即完成参考学习链接部分的内容即可，推荐书籍比较经典，但不做要求。
-
-课程 | 参考学习链接 | 推荐书籍
-:-- | :--: | :--:
-[统计学习入门](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| Stanford | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [链接](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-[机器学习入门](https://www.coursera.org/learn/machine-learning) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/machine-learning)
-
+  此处的课程内容主要是一些本科生期间的该方向的入门课程，主要是对该领域做一些简单的介绍，大家可以很好的了解该研究领域的一些概况。
+  
+课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+:-- | :--: | :--: | :--: | :--:
+统计学习入门 | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [统计学习入门](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) |[链接](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford
+机器学习入门 | 暂无 | [机器学习入门](https://www.coursera.org/learn/machine-learning) | [链接](https://www.coursera.org/learn/machine-learning) | Coursera 
+... |  ... | ... | ... |  ... 
 
 ###<h3 id="median_courses">基础课程中级</h3>
    此处的基础课程以研究生数学课程，程序课程等为主，是必备的，对专业的研究帮助非常大。
@@ -48,15 +50,23 @@
  
 ###<h3 id="specific_median_courses">专业课程中级</h3>
    此处的专业课程相对具有一定的深度，主要以该领域的研究生以及博士生的课程为主。
-   
-课程 | 机构 | 参考书 | Notes等其他资料
-:-- | :--: | :--: | :--:
-矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
-[凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
-[凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
+
+课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+:-- | :--: | :--: | :--: | :--:
+矩阵论 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无  | 暂无 | 暂无
+凸优化1 | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | [链接](http://stanford.edu/class/ee364a/index.html) | Stanford
+凸优化2  | 暂无 | [凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| |  [链接](http://stanford.edu/class/ee364b/) | Stanford
 
 
 ###<h3 id="specific_high_courses">高级进阶阶段</h3>
-  完善
-
-
+  此处主要是高级的进阶阶段，以领域高级会议和期刊的文章学习为主，只需要列举该领域的高级会议名称以及链接即可。
+  
+会议名称 | 链接
+:-- | :--: 
+ICML | http://icml.cc/2016/
+NIPS | https://nips.cc/
+AAAI | http://www.aaai.org/
+IJCAI | ...
+COLT | ...
+KDD | ...
+... | ...
