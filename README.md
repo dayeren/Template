@@ -22,7 +22,7 @@
   
 课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
 :-- | :--: | :--: | :--: | :--:
-单变量微积分 |  [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) | [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) | MIT   
+单变量微积分 |  [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) | [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/ | MIT   
 多变量微积分 | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) | MIT
 线性代数 |  [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) | [线性代数](http://open.163.com/special/opencourse/daishu.html) | [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/) | MIT
 统计入门 |  暂无 | [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 暂无 |  可汗学院 
