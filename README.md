@@ -62,7 +62,16 @@
 
   此处主要是高级的进阶阶段，以领域高级会议和期刊的文章学习为主，只需要列举该领域的高级会议名称以及链接即可。
   
-会议名称 | 链接  | 会议还是期刊
+  
+课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
+:-- | :--: | :--: | :--: | :--:
+单变量微积分 |  Calculus with Analytic Geometry | http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html |https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/ | MIT   
+多变量微积分 | Multivariable Calculus | http://open.163.com/special/opencourse/multivariable.html  | https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/ | MIT
+线性代数 |  Introduction to Linear Algebra| http://open.163.com/special/opencourse/daishu.html | https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/ | MIT
+统计入门 |  暂无 | http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html | 暂无 |  可汗学院 
+其他 | 其他 | 其他 | 其他 | 其他
+
+会议名称 | 链接 | 会议还是期刊
 :-- | :--: | :--: 
 NIPS | https://nips.cc/ | 会议
 AAAI | http://www.aaai.org/ | 会议
