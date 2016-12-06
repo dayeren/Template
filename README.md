@@ -20,7 +20,7 @@
   此处的课程主要以本科生课程为主，各个方向不同，例如机器学习主要是一些数学课程以及一些基本的必备的程序设计能力为主。
   
   
-课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
 :-- | :--: | :--: | :--: | :--:
 单变量微积分 |  Calculus with Analytic Geometry | http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html |https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/ | MIT   
 多变量微积分 | Multivariable Calculus | http://open.163.com/special/opencourse/multivariable.html  | https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/ | MIT
@@ -32,7 +32,7 @@
 ###<h3 id="specific_basic_courses">专业课程初级</h3>
   此处的课程内容主要是一些本科生期间的该方向的入门课程，主要是对该领域做一些简单的介绍，大家可以很好的了解该研究领域的一些概况。
   
-课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
 :-- | :--: | :--: | :--: | :--:
 统计学习入门 | An Introduction to Statistical Learning | https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about |https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about | Stanford
 机器学习入门 | 暂无 | https://www.coursera.org/learn/machine-learning | https://www.coursera.org/learn/machine-learning | Coursera 
@@ -41,7 +41,7 @@
 ###<h3 id="median_courses">基础课程中级</h3>
    此处的基础课程以研究生数学课程，程序课程等为主，是必备的，对专业的研究帮助非常大。
    
-课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
 :-- | :--: | :--: | :--: | :--:
 矩阵论 | 矩阵论 | 暂无  | 暂无 | 暂无
 凸优化1 | Convex Optimization|https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
@@ -51,7 +51,7 @@
 ###<h3 id="specific_median_courses">专业课程中级</h3>
    此处的专业课程相对具有一定的深度，主要以该领域的研究生以及博士生的课程为主。
 
-课程名 | 课程对应参考书 | 网络课程 | 网络课程对应的notes,slides等资料 | 课程机构
+课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
 :-- | :--: | :--: | :--: | :--:
 机器学习基石 |  Learning from Data |https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
 机器学习技法 | 暂无|https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
@@ -62,9 +62,9 @@
 
   此处主要是高级的进阶阶段，以领域高级会议和期刊的文章学习为主，只需要列举该领域的高级会议名称以及链接即可。
   
-会议名称 | 链接
-:-- | :--: 
-NIPS | https://nips.cc/
-AAAI | http://www.aaai.org/
-ICML | http://icml.cc/2016/
-其他 | 对应链接
+会议名称 | 链接  | 会议还是期刊
+:-- | :--: | :--: 
+NIPS | https://nips.cc/ | 会议
+AAAI | http://www.aaai.org/ | 会议
+ICML | http://icml.cc/2016/ | 会议
+其他 | 对应链接 | 会议 or 期刊
