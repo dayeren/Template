@@ -1,6 +1,4 @@
-# Template
-
-# 机器学习Machine-Learning
+# 模板Template
 
 ## 主要内容
 - [前言](#preparation) 
@@ -12,9 +10,9 @@
  - [高级进阶阶段](#specific_high_courses)
 
 ##<h2 id="preparation">前言</h2>
-   大家按照模板填写自己领域的相关信息，这边仅仅只是一个关于机器学习的简单模板，具体的一些其他资料可以参考https://github.com/dayeren/Machine-Learning/blob/master/README.md。   
+   大家按照下面的模板填写自己研究生期间研究领域的学习路线信息，这边是一个关于机器学习的简单模板，大家可以按照下面的方式进行填写，也可以参考https://github.com/dayeren/Machine-Learning/blob/master/README.md。   
 
-##<h2 id="learning_route">推荐学习路线</h2>
+##<h2 id="learning_route">模板</h2>
 ###<h3 id="basic_courses">基础课程初级</h3>
 
   此处的课程主要以本科生课程为主，各个方向不同，例如机器学习主要是一些数学课程以及一些基本的必备的程序设计能力为主。
@@ -39,7 +37,7 @@
 其他 | 其他 | 其他 | 其他 | 其他
 
 ###<h3 id="median_courses">基础课程中级</h3>
-   此处的基础课程以研究生数学课程，程序课程等为主，是必备的，对专业的研究帮助非常大。
+   此处的基础课程以研究生数学课程，程序课程等为主，是后续进行该领域的研究的基本功。
    
 课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
 :-- | :--: | :--: | :--: | :--:
@@ -49,7 +47,7 @@
 其他 | 其他 | 其他 | 其他 | 其他
 
 ###<h3 id="specific_median_courses">专业课程中级</h3>
-   此处的专业课程相对具有一定的深度，主要以该领域的研究生以及博士生的课程为主。
+   这边专业课程相对具有一定的深度，主要以该领域的研究生以及博士生的课程为主。
 
 课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
 :-- | :--: | :--: | :--: | :--:
@@ -60,16 +58,7 @@
 
 ###<h3 id="specific_high_courses">高级进阶阶段</h3>
 
-  此处主要是高级的进阶阶段，以领域高级会议和期刊的文章学习为主，只需要列举该领域的高级会议名称以及链接即可。
-  
-  
-课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构
-:-- | :--: | :--: | :--: | :--:
-单变量微积分 |  Calculus with Analytic Geometry | http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html |https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/ | MIT   
-多变量微积分 | Multivariable Calculus | http://open.163.com/special/opencourse/multivariable.html  | https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/ | MIT
-线性代数 |  Introduction to Linear Algebra| http://open.163.com/special/opencourse/daishu.html | https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/ | MIT
-统计入门 |  暂无 | http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html | 暂无 |  可汗学院 
-其他 | 其他 | 其他 | 其他 | 其他
+  高级进阶阶段，以领域高级会议和期刊的文章学习为主，只需要列举该领域的高级会议名称以及链接即可。
 
 会议名称 | 链接 | 会议还是期刊
 :-- | :--: | :--: 
